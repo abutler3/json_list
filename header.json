@@ -1,0 +1,41 @@
+{
+   "header":{
+      "logo":[
+         {
+            "url":"/assets/images/vumcFINAL4_c.png"
+         }
+      ],
+      "links":[
+         {
+            "title":"People Finder",
+            "href":"https://peoplefinder.app.vumc.org/",
+            "class":"data-tracker-people-finder-link"
+         },
+         {
+            "title":"Referring Providers",
+            "href":"https://www.vanderbilthealth.com/healthcare-professionals/referring-providers",
+            "class":"data-tracker-referring-providers-link"
+         },
+         {
+            "title":"Locations and Parking",
+            "href":"https://www.vumc.org/medcenterparking/",
+            "class":"data-tracker-locations-and-parking-link"
+         },
+         {
+            "title":"Resources Directory",
+            "href":"https://www.vumc.org/main/resources-employees",
+            "class":"data-tracker-resources-directory-link"
+         },
+         {
+            "title":"Patient and Visitors",
+            "href":"https://www.vanderbilthealth.com/",
+            "class":"data-tracker-patient-and-visitors-link"
+         },
+         {
+            "title":"My Health at Vanderbilt",
+            "href":"https://www.myhealthatvanderbilt.com/",
+            "class":"data-tracker-my-health-at-vanderbilt-link"
+         }
+      ]
+   }
+}
